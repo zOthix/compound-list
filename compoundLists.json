@@ -375,6 +375,14 @@
         "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_usdc.svg"
       },
       {
+        "chainId": 97,
+        "address": "0x814e97D66cc653C98b82e366220b4981fA7e260f",
+        "name": "USD Coin USDC",
+        "symbol": "USDC",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
+      },
+      {
         "chainId": 5,
         "address": "0xe4E81Fa6B16327D4B78CFEB83AAdE04bA7075165",
         "name": "0x Protocol Token",
