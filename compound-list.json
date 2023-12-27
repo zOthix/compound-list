@@ -367,7 +367,7 @@
         "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_SAI.svg"
       },
       {
-        "chainId": 4,
+        "chainId": 97,
         "address": "0x814e97D66cc653C98b82e366220b4981fA7e260f",
         "name": "USD Coin USDC",
         "symbol": "USDC",
@@ -375,7 +375,7 @@
         "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
       },
       {
-        "chainId": 4,
+        "chainId": 97,
         "address": "0x17a1140bFeA18311bB4269b2C629D376C623efeb",
         "name": "Tether USD",
         "symbol": "USDT",
