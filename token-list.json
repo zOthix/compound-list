@@ -368,16 +368,16 @@
       },
       {
         "chainId": 97,
-        "address": "0x17a1140bFeA18311bB4269b2C629D376C623efeb",
-        "name": "Tether USD",
+        "address": "0xB09C234Bac6185D54085a5C39782c97f98c8E06b",
+        "name": "USDTether",
         "symbol": "USDT",
         "decimals": 8,
         "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_usdc.svg"
       },
       {
         "chainId": 97,
-        "address": "0x814e97D66cc653C98b82e366220b4981fA7e260f",
-        "name": "USD Coin USDC",
+        "address": "0x8ac3404A85bd98F578e006F3fD56c82398d6216F",
+        "name": "USDCoin",
         "symbol": "USDC",
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
