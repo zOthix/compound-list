@@ -367,7 +367,7 @@
         "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_SAI.svg"
       },
       {
-        "chainId": 97,
+        "chainId": 9,
         "address": "0xB09C234Bac6185D54085a5C39782c97f98c8E06b",
         "name": "USDTether",
         "symbol": "USDT",
